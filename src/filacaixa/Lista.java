@@ -7,7 +7,7 @@ package filacaixa;
 
 /**
  *
- * @author gabri
+ * @author Gabriel
  */
 public class Lista {
     private Cliente pos, ultimo;
