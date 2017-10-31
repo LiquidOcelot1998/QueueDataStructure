@@ -5,3 +5,7 @@
 /nbproject/genfiles.properties
 /nbproject/project.xml
 /analise.txt
+build/
+dist/
+nbproject/
+.gitignore
